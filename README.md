@@ -1,6 +1,6 @@
 # GitHub Copilot Co-author
 
-このプロジェクトは、GitHub Copilotを活用した協業開発の例です。
+このプロジェクトは、GitHub Copilotを活用した協業開発の例です!
 
 ## 概要
 
