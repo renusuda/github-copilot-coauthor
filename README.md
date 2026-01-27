@@ -1,24 +1,9 @@
-# GitHub Copilot Co-author
+# GitHub Desktop Test Project
 
-このプロジェクトは、GitHub Copilotを活用した協業開発の例です!
+This repository is used for testing the integration between GitHub Desktop and GitHub Copilot.
 
-## 概要
+## Objectives
 
-本プロジェクトでは、開発者とAIアシスタントが協力して、高品質なコードを効率的に作成します。
-
-## 機能
-
-- インテリジェント コード補完
-- リアルタイム コード生成
-- 複数言語対応
-- テスト駆動開発サポート
-
-## 使い方
-
-1. GitHub Copilotをインストール
-2. エディタで開発を開始
-3. コメントまたはコード片からの自動補完を活用
-
-## ライセンス
-
-MIT License
+- Test the AI-powered commit message generation.
+- Learn how to use GitHub Desktop features.
+- Verify the connection with GitHub Copilot.
