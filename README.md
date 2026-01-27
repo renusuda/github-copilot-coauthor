@@ -1,6 +1,6 @@
 # GitHub Desktop Test Project
 
-This repository is used for testing the integration between GitHub Desktop and GitHub Copilot
+This repository is used for testing the integration between GitHub Desktop and GitHub Copilot!
 
 ## Objectives
 
