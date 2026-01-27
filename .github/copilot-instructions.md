@@ -6,7 +6,7 @@ GitHub Copilotがコミットメッセージを生成、またはコミット操
 
 Copilotがコードの提案や修正に大きく寄与した場合は、メッセージの末尾に必ず以下のトレーラー（Footer）を追加してください。
 
-- **記述内容:** `Co-authored-by: GitHub Copilot <noreply@github.com>`
+- **記述内容:** `Co-authored-by: GitHub Copilot <github-copilot@github.com>`
 - **配置ルール:** メッセージ本文とトレーラーの間には空行を1行入れ、他の `Co-authored-by` や `Signed-off-by` がある場合はその後に続けて記述してください。
 
 ## 2. メッセージの構成例
@@ -18,5 +18,5 @@ Copilotがコードの提案や修正に大きく寄与した場合は、メッ�
 
 <body>
 
-Co-authored-by: GitHub Copilot <noreply@github.com>
+Co-authored-by: GitHub Copilot <github-copilot@github.com>
 ```
