@@ -1,28 +1,22 @@
-# Copilot Instructions
+# Git Commit Message Guidelines
 
-## コミットメッセージ
+GitHub Copilotがコミットメッセージを生成、またはコミット操作を支援する際は、以下のガイドラインに従ってください。
 
-コミットメッセージを生成する際は、以下のフォーマットに従うこと：
+## 1. 共同制作者（Co-authored-by）の付与
 
-- 1行目: 変更内容の要約（50文字以内）
-- 2行目: 空行
-- 3行目以降: 必要に応じて詳細な説明
-- 最後に空行を入れ、Co-authored-byトレーラーを追加
+Copilotがコードの提案や修正に大きく寄与した場合は、メッセージの末尾に必ず以下のトレーラー（Footer）を追加してください。
 
-### Co-authored-by
+- **記述内容:** `Co-authored-by: GitHub Copilot <noreply@github.com>`
+- **配置ルール:** メッセージ本文とトレーラーの間には空行を1行入れ、他の `Co-authored-by` や `Signed-off-by` がある場合はその後に続けて記述してください。
 
-コミットメッセージの末尾には必ず以下を含める：
+## 2. メッセージの構成例
 
-```
-Co-authored-by: GitHub Copilot <noreply@github.com>
-```
+生成するコミットメッセージは、原則として以下の構造に従ってください。
 
-### 例
+```text
+<type>: <subject>
 
-```
-Add user authentication middleware
-
-Implement JWT-based authentication for API routes.
+<body>
 
 Co-authored-by: GitHub Copilot <noreply@github.com>
 ```
